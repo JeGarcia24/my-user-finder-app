@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-user-finder-app/static/css/main.6fc635fa.chunk.css",
+    "main.js": "/my-user-finder-app/static/js/main.fd1bca21.chunk.js",
+    "main.js.map": "/my-user-finder-app/static/js/main.fd1bca21.chunk.js.map",
+    "runtime-main.js": "/my-user-finder-app/static/js/runtime-main.79354791.js",
+    "runtime-main.js.map": "/my-user-finder-app/static/js/runtime-main.79354791.js.map",
+    "static/js/2.36681842.chunk.js": "/my-user-finder-app/static/js/2.36681842.chunk.js",
+    "static/js/2.36681842.chunk.js.map": "/my-user-finder-app/static/js/2.36681842.chunk.js.map",
+    "index.html": "/my-user-finder-app/index.html",
+    "precache-manifest.df4efccc27550f70c896f0012d191097.js": "/my-user-finder-app/precache-manifest.df4efccc27550f70c896f0012d191097.js",
+    "service-worker.js": "/my-user-finder-app/service-worker.js",
+    "static/css/main.6fc635fa.chunk.css.map": "/my-user-finder-app/static/css/main.6fc635fa.chunk.css.map",
+    "static/js/2.36681842.chunk.js.LICENSE.txt": "/my-user-finder-app/static/js/2.36681842.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79354791.js",
+    "static/js/2.36681842.chunk.js",
+    "static/css/main.6fc635fa.chunk.css",
+    "static/js/main.fd1bca21.chunk.js"
+  ]
+}
